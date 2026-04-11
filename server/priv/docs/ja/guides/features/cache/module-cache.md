@@ -94,7 +94,7 @@ tuist generate --no-binary-cache  # equivalent to --cache-profile none
 
 Tuistでキャッシュ可能なのは以下の対象製品のみである：
 
-- XCTest](https://developer.apple.com/documentation/xctest)に依存しないフレームワーク（静的および動的）。
+- [XCTest](https://developer.apple.com/documentation/xctest)に依存しないフレームワーク（静的および動的）。
 - バンドル
 - スイフト・マクロ
 

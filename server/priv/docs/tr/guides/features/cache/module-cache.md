@@ -114,7 +114,7 @@ Etkili davranışı çözerken öncelik (en yüksekten en düşüğe):
 
 Sadece aşağıdaki hedef ürünler Tuist tarafından önbelleğe alınabilir:
 
-- XCTest](https://developer.apple.com/documentation/xctest)'e bağlı olmayan
+- [XCTest](https://developer.apple.com/documentation/xctest)'e bağlı olmayan
   çerçeveler (statik ve dinamik)
 - Paketler
 - Swift Makroları

@@ -99,7 +99,7 @@ tuist generate --no-binary-cache  # equivalent to --cache-profile none
 
 다음 대상 제품만 Tuist에서 캐시할 수 있습니다:
 
-- XCTest](https://developer.apple.com/documentation/xctest)에 의존하지 않는 프레임워크(정적 및
+- [XCTest](https://developer.apple.com/documentation/xctest)에 의존하지 않는 프레임워크(정적 및
   동적)
 - 번들
 - 스위프트 매크로
